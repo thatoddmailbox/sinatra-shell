@@ -8,3 +8,6 @@ To install `sinatra-shell`, run this command:
 
 ## To use
 Run the command `sinatra-shell` from any directory. It will prompt you for an application name, create a directory for you, and run `bundle install`.
+
+## Uninstall
+Run the command `uninstall-sinatra-shell` to remove sinatra-shell.
